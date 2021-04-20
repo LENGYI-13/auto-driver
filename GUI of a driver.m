@@ -1,5 +1,3 @@
-%% 微信公众号：数学模型（MATHmodels）
-%  联系方式：添加微信 KingOfModels
 clc; clear
 figure('position',[50,50,900, 600])
 
